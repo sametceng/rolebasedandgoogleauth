@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303899040921",
+    "project_id": "rolebasedandauth",
+    "storage_bucket": "rolebasedandauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303899040921:android:3cd5164d5cecb791f9ec08",
+        "android_client_info": {
+          "package_name": "com.example.rolebasedandgoogleauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJdF36pSRnwwAqSoPh8UcsbJgV3mZa5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
